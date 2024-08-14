@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+chess
+requests
+python-dotenv
+pydantic

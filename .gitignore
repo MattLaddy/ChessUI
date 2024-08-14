@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Python
+*.pyc
+*.pyo
+backend/__pycache__/
+__pycache__/
+env/
+.venv/
+/backend/venv/
+
+# Build output
+/build/
+/dist/
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Sensitive data
+*.pem
+*.key
